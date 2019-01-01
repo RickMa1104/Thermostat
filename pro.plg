@@ -1,0 +1,141 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\档案（备份级）\workstation\keil\温控器\pro.uvproj
+Project File Date:  06/01/2013
+
+<h2>Output:</h2>
+compiling main.c...
+MAIN.C(52): error C202: 'upset': undefined identifier
+MAIN.C(53): error C141: syntax error near ';'
+MAIN.C(54): error C202: 'upset': undefined identifier
+MAIN.C(64): error C141: syntax error near ';'
+MAIN.C(69): error C141: syntax error near '}'
+MAIN.C(79): error C141: syntax error near 'int'
+MAIN.C(79): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C141: syntax error near 'if'
+MAIN.C(80): error C141: syntax error near ';'
+MAIN.C(80): error C141: syntax error near ')'
+MAIN.C(82): error C141: syntax error near 'else'
+main.c - 11 Error(s), 0 Warning(s).
+compiling main.c...
+MAIN.C(52): error C202: 'upset': undefined identifier
+MAIN.C(53): error C141: syntax error near ';'
+MAIN.C(54): error C202: 'upset': undefined identifier
+MAIN.C(64): error C141: syntax error near ';'
+MAIN.C(69): error C141: syntax error near '}'
+MAIN.C(79): error C141: syntax error near 'int'
+MAIN.C(79): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C141: syntax error near ';'
+MAIN.C(80): error C141: syntax error near ')'
+MAIN.C(82): error C141: syntax error near 'else'
+main.c - 11 Error(s), 0 Warning(s).
+compiling main.c...
+MAIN.C(52): error C202: 'upset': undefined identifier
+MAIN.C(53): error C141: syntax error near ';'
+MAIN.C(54): error C202: 'upset': undefined identifier
+MAIN.C(64): error C141: syntax error near ';'
+MAIN.C(79): error C141: syntax error near 'int'
+MAIN.C(79): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C141: syntax error near ';'
+MAIN.C(80): error C141: syntax error near ')'
+MAIN.C(82): error C141: syntax error near 'else'
+main.c - 10 Error(s), 0 Warning(s).
+compiling main.c...
+MAIN.C(53): warning C275: expression with possibly no effect
+MAIN.C(53): error C141: syntax error near ';'
+MAIN.C(64): error C141: syntax error near ';'
+MAIN.C(79): error C141: syntax error near 'int'
+MAIN.C(79): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C141: syntax error near ';'
+MAIN.C(80): error C141: syntax error near ')'
+MAIN.C(82): error C141: syntax error near 'else'
+main.c - 8 Error(s), 1 Warning(s).
+compiling main.c...
+MAIN.C(53): warning C275: expression with possibly no effect
+MAIN.C(53): error C141: syntax error near ';'
+MAIN.C(64): error C141: syntax error near ';'
+MAIN.C(79): error C141: syntax error near 'int'
+MAIN.C(79): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C141: syntax error near ';'
+MAIN.C(80): error C141: syntax error near ')'
+MAIN.C(82): error C141: syntax error near 'else'
+main.c - 8 Error(s), 1 Warning(s).
+compiling main.c...
+MAIN.C(53): warning C275: expression with possibly no effect
+MAIN.C(53): error C141: syntax error near ';'
+MAIN.C(64): error C141: syntax error near ';'
+MAIN.C(79): error C141: syntax error near 'int'
+MAIN.C(79): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C141: syntax error near ';'
+MAIN.C(80): error C141: syntax error near ')'
+MAIN.C(82): error C141: syntax error near 'else'
+main.c - 8 Error(s), 1 Warning(s).
+compiling main.c...
+MAIN.C(79): error C141: syntax error near 'int'
+MAIN.C(79): error C202: 'comptemp': undefined identifier
+MAIN.C(80): error C202: 'comptemp': undefined identifier
+main.c - 3 Error(s), 0 Warning(s).
+compiling main.c...
+MAIN.C(77): error C141: syntax error near 'float'
+main.c - 1 Error(s), 0 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd.c...
+linking...
+Program Size: data=30.0 xdata=0 code=2241
+creating hex file from "pro"...
+"pro" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+compiling lcd.c...
+compiling temp.c...
+linking...
+Program Size: data=30.0 xdata=0 code=2241
+creating hex file from "pro"...
+"pro" - 0 Error(s), 0 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=34.0 xdata=0 code=2306
+creating hex file from "pro"...
+"pro" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+compiling lcd.c...
+compiling temp.c...
+linking...
+Program Size: data=34.0 xdata=0 code=2306
+creating hex file from "pro"...
+"pro" - 0 Error(s), 0 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=34.0 xdata=0 code=2306
+creating hex file from "tempcontrol"...
+"tempcontrol" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+compiling lcd.c...
+compiling temp.c...
+linking...
+Program Size: data=34.0 xdata=0 code=2306
+creating hex file from "tempcontrol"...
+"tempcontrol" - 0 Error(s), 0 Warning(s).
